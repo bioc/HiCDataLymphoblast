@@ -1,11 +1,11 @@
 Package: HiCDataLymphoblast
 Title: Human lymphoblastoid HiC data from Lieberman-Aiden et al. 2009
 Description: The HiC data from human lymphoblastoid cell line (HindIII restriction) was retrieved from the sequence read archive and two ends of the paired reads were aligned separately with bowtie.
-Version: 1.21.0
+Version: 1.21.1
 Date: 2013-09-07
 Author: Borbala Mifsud
 Maintainer: Borbala Mifsud <Borbala.Mifsud@cancer.org.uk>
-Suggests: GOTHiC, ShortRead
+Suggests:  ShortRead
 biocViews: ExperimentData, Homo_sapiens_Data
 License: GPL-3
 Packaged: 2013-11-05 16:53:01 UTC; borbalagerle
