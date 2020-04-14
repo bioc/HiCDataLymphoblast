@@ -4,7 +4,7 @@ Description: The HiC data from human lymphoblastoid cell line (HindIII restricti
 Version: 1.23.0
 Date: 2013-09-07
 Author: Borbala Mifsud
-Maintainer: Borbala Mifsud <Borbala.Mifsud@cancer.org.uk>
+Maintainer: Borbala Mifsud <b.mifsud@qmul.ac.uk>
 Suggests: ShortRead
 biocViews: ExperimentData, Homo_sapiens_Data
 License: GPL-3
